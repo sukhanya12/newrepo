@@ -1,0 +1,1 @@
+Git remote repository is the one of the server acts as central repository from where  all the developer works
