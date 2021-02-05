@@ -1,0 +1,3 @@
+ git reset commitid , this command is used to alter the staged snapsots and/or the working directory
+ Soft : Does not touch the index file or working tree at all
+ 
